@@ -1,3 +1,7 @@
+CHANGES FROM THE WONDERFUL BRANCH!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Android Studio Installation Location: C:\Program Files\Android\Android Studio
 Android SDK Installation Location: C:\Users\pettwaybowmand\AppData\Local\Android\sdk
 Start Menu Folder: Android Studio
