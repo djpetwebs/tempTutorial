@@ -1,0 +1,2 @@
+Destination Folder: C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2017.1
+Start Folder: JetBrains
